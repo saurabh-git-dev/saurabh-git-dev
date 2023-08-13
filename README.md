@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saurabh</h1>
-<h3 align="center">An engineer but more over a full stack developer</h3>
+<h3 align="center">
+A full stack developer but also have skills in different fields and technologies
+</h3>
 
 - 🔭 I’m currently working on **React, Nest JS, Unity And Microservices**
 
