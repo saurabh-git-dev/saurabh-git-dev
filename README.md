@@ -5,7 +5,7 @@ A full stack developer but also have skills in different fields and technologies
 
 - 🔭 I’m currently working on **React, Nest JS, Unity And Microservices**
 
-- 🌱 I’m currently learning **Microservices and Machine Learning**
+- 🌱 I’m currently learning **Microservices, Machine Learning and FPGA** 
 
 <p align="left">
 </p>
