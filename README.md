@@ -3,9 +3,9 @@
 A full stack developer but also have skills in different fields and technologies.
 </h3>
 
-- 🔭 I’m currently working on **React, Nest JS, Unity And Microservices**
+- 🔭 I’m currently working on **React, Nest JS, And Microservices**
 
-- 🌱 I’m currently learning **Microservices, Machine Learning and FPGA** 
+- 🌱 I’m currently learning **Microservices, Machine Learning** 
 
 <p align="left">
 </p>
