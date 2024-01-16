@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Saurabh</h1>
-<h3 align="center">
+<h1>Hi, I'm Saurabh</h1>
+<h3>
 A full stack developer but also have skills in different fields and technologies.
 </h3>
 
