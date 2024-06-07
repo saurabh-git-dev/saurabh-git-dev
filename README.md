@@ -86,54 +86,54 @@ A full stack developer but also have skills in different fields and technologies
 </a>
 
 <a href="https://www.docker.com/">
-    <img src="https://www.thesaurabh.dev/images/tech/docker.png" alt="Docker Logo" width="40" height="40">
+    <img src="https://www.thesaurabh.dev/images/tech/docker.png" alt="Docker Logo" width="40">
 </a>
 
 <a href="https://kafka.apache.org/">
-    <img src="https://www.thesaurabh.dev/images/tech/kafka.png" alt="Kafka Logo" width="40" height="40">
+    <img src="https://www.thesaurabh.dev/images/tech/kafka.png" alt="Kafka Logo" width="40">
 </a>
 
 <a href="https://www.rabbitmq.com/">
-    <img src="https://www.thesaurabh.dev/images/tech/rabbitmq.png" alt="RabbitMQ Logo" width="40" height="40">
+    <img src="https://www.thesaurabh.dev/images/tech/rabbitmq.png" alt="RabbitMQ Logo" width="40">
 </a>
 
 <a href="https://aws.amazon.com/sqs/">
-    <img src="https://www.thesaurabh.dev/images/tech/sqs.png" alt="AWS SQS Logo" width="40" height="40">
+    <img src="https://www.thesaurabh.dev/images/tech/sqs.png" alt="AWS SQS Logo" width="40">
 </a>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API">
-    <img src="https://www.thesaurabh.dev/images/tech/websockets.png" alt="Websockets Logo" width="40" height="40">
+    <img src="https://www.thesaurabh.dev/images/tech/websockets.png" alt="Websockets Logo" width="40">
 </a>
 
 <a href="https://socket.io/">
-    <img src="https://www.thesaurabh.dev/images/tech/socketio.png" alt="SocketIO Logo" width="40" height="40">
+    <img src="https://www.thesaurabh.dev/images/tech/socketio.png" alt="SocketIO Logo" width="40">
 </a>
 
 <a href="https://www.arduino.cc/">
-    <img src="https://www.thesaurabh.dev/images/tech/arduino.png" alt="Arduino Logo" width="40" height="40">
+    <img src="https://www.thesaurabh.dev/images/tech/arduino.png" alt="Arduino Logo" width="40">
 </a>
 
 
 
 <h3 align="left">Cloud Services</h3>
 <a href="https://aws.amazon.com/">
-    <img src="https://www.thesaurabh.dev/images/tech/aws.png" alt="AWS Logo" width="40" height="40">
+    <img src="https://www.thesaurabh.dev/images/tech/aws.png" alt="AWS Logo" width="40">
 </a>
 
 <a href="https://azure.microsoft.com/">
-    <img src="https://www.thesaurabh.dev/images/tech/azure.png" alt="Azure Logo" width="40" height="40">
+    <img src="https://www.thesaurabh.dev/images/tech/azure.png" alt="Azure Logo" width="40">
 </a>
 
 <a href="https://www.digitalocean.com/">
-    <img src="https://www.thesaurabh.dev/images/tech/digitalocean.png" alt="DigitalOcean Logo" width="40" height="40">
+    <img src="https://www.thesaurabh.dev/images/tech/digitalocean.png" alt="DigitalOcean Logo" width="40">
 </a>
 
 <a href="https://vercel.com/">
-    <img src="https://www.thesaurabh.dev/images/tech/vercel.png" alt="Vercel Logo" width="40" height="40">
+    <img src="https://www.thesaurabh.dev/images/tech/vercel.png" alt="Vercel Logo" width="40">
 </a>
 
 <a href="https://www.netlify.com/">
-    <img src="https://www.thesaurabh.dev/images/tech/netlify.png" alt="Netlify Logo" width="40" height="40">
+    <img src="https://www.thesaurabh.dev/images/tech/netlify.png" alt="Netlify Logo" width="40">
 </a>
 
 
