@@ -12,61 +12,61 @@ A full stack developer but also have skills in different fields and technologies
 
 <h3 align="left">Languages and Scripting</h3>
 <a href="https://www.python.org/">
-    <img src="https://www.thesaurabh.dev/images/tech/python.png" alt="Python Logo" height="40">
+    <img src="https://www.thesaurabh.dev/images/tech/python.png" alt="Python Logo">
 </a>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://www.thesaurabh.dev/images/tech/javascript.png" alt="JavaScript Logo" height="40">
+    <img src="https://www.thesaurabh.dev/images/tech/javascript.png" alt="JavaScript Logo">
 </a>
 
 <a href="https://www.typescriptlang.org/">
-    <img src="https://www.thesaurabh.dev/images/tech/typescript.png" alt="TypeScript Logo" height="40">
+    <img src="https://www.thesaurabh.dev/images/tech/typescript.png" alt="TypeScript Logo">
 </a>
 
 <a href="https://en.cppreference.com/w/c/language">
-    <img src="https://www.thesaurabh.dev/images/tech/clang.png" alt="C Logo" height="40">
+    <img src="https://www.thesaurabh.dev/images/tech/clang.png" alt="C Logo">
 </a>
 
 
 <h3 align="left">Frameworks and Databases</h3>
 <a href="https://reactjs.org/">
-    <img src="https://www.thesaurabh.dev/images/tech/react.png" alt="React Logo" width="40" height="40">
+    <img src="https://www.thesaurabh.dev/images/tech/react.png" alt="React Logo" width="40">
 </a>
 
 <a href="https://nextjs.org/">
-    <img src="https://www.thesaurabh.dev/images/tech/nextjs.png" alt="Next.js Logo" width="40" height="40">
+    <img src="https://www.thesaurabh.dev/images/tech/nextjs.png" alt="Next.js Logo" width="40">
 </a>
 
 <a href="https://tailwindcss.com/">
-    <img src="https://www.thesaurabh.dev/images/tech/tailwind.png" alt="TailwindCSS Logo" width="40" height="40">
+    <img src="https://www.thesaurabh.dev/images/tech/tailwind.png" alt="TailwindCSS Logo" width="40">
 </a>
 
 <a href="https://mui.com/">
-    <img src="https://www.thesaurabh.dev/images/tech/materialui.png" alt="Material-UI Logo" width="40" height="40">
+    <img src="https://www.thesaurabh.dev/images/tech/materialui.png" alt="Material-UI Logo" width="40">
 </a>
 
 <a href="https://nestjs.com/">
-    <img src="https://www.thesaurabh.dev/images/tech/nestjs.png" alt="NestJS Logo" width="40" height="40">
+    <img src="https://www.thesaurabh.dev/images/tech/nestjs.png" alt="NestJS Logo" width="40">
 </a>
 
 <a href="https://www.electronjs.org/">
-    <img src="https://www.thesaurabh.dev/images/tech/electron.png" alt="Electron Logo" width="40" height="40">
+    <img src="https://www.thesaurabh.dev/images/tech/electron.png" alt="Electron Logo" width="40">
 </a>
 
 <a href="https://www.postgresql.org/">
-    <img src="https://www.thesaurabh.dev/images/tech/postgres.png" alt="PostgreSQL Logo" width="40" height="40">
+    <img src="https://www.thesaurabh.dev/images/tech/postgres.png" alt="PostgreSQL Logo" width="40">
 </a>
 
 <a href="https://www.mongodb.com/">
-    <img src="https://www.thesaurabh.dev/images/tech/mongodb.png" alt="MongoDB Logo" width="40" height="40">
+    <img src="https://www.thesaurabh.dev/images/tech/mongodb.png" alt="MongoDB Logo" width="40">
 </a>
 
 <a href="https://redis.io/">
-    <img src="https://www.thesaurabh.dev/images/tech/redis.png" alt="Redis Logo" width="40" height="40">
+    <img src="https://www.thesaurabh.dev/images/tech/redis.png" alt="Redis Logo" width="40">
 </a>
 
 <a href="https://www.mysql.com/">
-    <img src="https://www.thesaurabh.dev/images/tech/mysql.png" alt="MySQL Logo" width="40" height="40">
+    <img src="https://www.thesaurabh.dev/images/tech/mysql.png" alt="MySQL Logo" width="40">
 </a>
 
 
@@ -74,15 +74,15 @@ A full stack developer but also have skills in different fields and technologies
 
 <h3 align="left">Tools and Techs</h3>
 <a href="https://git-scm.com/">
-    <img src="https://www.thesaurabh.dev/images/tech/git.png" alt="Git Logo" width="40" height="40">
+    <img src="https://www.thesaurabh.dev/images/tech/git.png" alt="Git Logo" width="40">
 </a>
 
 <a href="https://nginx.org/">
-    <img src="https://www.thesaurabh.dev/images/tech/nginx.png" alt="Nginx Logo" width="40" height="40">
+    <img src="https://www.thesaurabh.dev/images/tech/nginx.png" alt="Nginx Logo" width="40">
 </a>
 
 <a href="https://ubuntu.com/">
-    <img src="https://www.thesaurabh.dev/images/tech/ubuntu.png" alt="Ubuntu Logo" width="40" height="40">
+    <img src="https://www.thesaurabh.dev/images/tech/ubuntu.png" alt="Ubuntu Logo" width="40">
 </a>
 
 <a href="https://www.docker.com/">
