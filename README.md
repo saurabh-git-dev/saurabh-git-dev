@@ -12,19 +12,19 @@ A full stack developer but also have skills in different fields and technologies
 
 <h3 align="left">Languages and Scripting</h3>
 <a href="https://www.python.org/">
-    <img src="https://www.thesaurabh.dev/images/tech/python.png" alt="Python Logo">
+    <img src="https://www.thesaurabh.dev/images/tech/python.png" alt="Python Logo" width="40">
 </a>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://www.thesaurabh.dev/images/tech/javascript.png" alt="JavaScript Logo">
+    <img src="https://www.thesaurabh.dev/images/tech/javascript.png" alt="JavaScript Logo" width="40">
 </a>
 
 <a href="https://www.typescriptlang.org/">
-    <img src="https://www.thesaurabh.dev/images/tech/typescript.png" alt="TypeScript Logo">
+    <img src="https://www.thesaurabh.dev/images/tech/typescript.png" alt="TypeScript Logo" width="40">
 </a>
 
 <a href="https://en.cppreference.com/w/c/language">
-    <img src="https://www.thesaurabh.dev/images/tech/clang.png" alt="C Logo">
+    <img src="https://www.thesaurabh.dev/images/tech/clang.png" alt="C Logo" width="40">
 </a>
 
 
