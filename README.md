@@ -3,8 +3,12 @@
 A full stack developer but also have skills in different fields and technologies.
 </h3>
 
-- 🔭 I’m currently working on **React, Nest JS, Electron And Microservices**
-- 🌱 I’m currently learning **Machine Learning** 
+🛠️ Currently working on integrating tools, APIs, embedded devices, and networking.
+</br></br>
+🌱 Learning **Unity** and Gradually diving deeper into **Machine Learning**.
+</br></br>
+❤️ Discovered GoLang a bit late, but absolutely enjoying it — it's solving many of my problems and significantly speeding up processing.
+</br>
 
 <p align="left">
 </p>
@@ -25,6 +29,10 @@ A full stack developer but also have skills in different fields and technologies
 
 <a href="https://en.cppreference.com/w/c/language">
     <img src="https://www.thesaurabh.dev/images/tech/clang.png" alt="C Logo" width="40">
+</a>
+
+<a href="https://go.dev/">
+    <img src="https://go.dev/images/go-logo-blue.svg" alt="Go Logo" width="100">
 </a>
 
 
