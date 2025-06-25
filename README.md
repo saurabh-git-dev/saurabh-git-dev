@@ -11,7 +11,7 @@ A full stack developer but also have skills in different fields and technologies
 </br>
 
 #### Portfolio : [thesaurabh.dev](https://thesaurabh.dev)
-#### Blog      : [blog.thesaurabh.dev](https://thesaurabh.dev)
+#### Blog      : [blog.thesaurabh.dev](https://blog.thesaurabh.dev)
 
 <p align="left">
 </p>
