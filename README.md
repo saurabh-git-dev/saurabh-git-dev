@@ -10,7 +10,7 @@ A full stack developer but also have skills in different fields and technologies
 ❤️ Discovered GoLang a bit late, but absolutely enjoying it — it's solving many of my problems and significantly speeding up processing.
 </br>
 
-#### Portfolio : [thsaurabh.dev](https://thesaurabh.dev)
+#### Portfolio : [thesaurabh.dev](https://thesaurabh.dev)
 #### Blog      : [blog.thesaurabh.dev](https://thesaurabh.dev)
 
 <p align="left">
