@@ -27,7 +27,7 @@ A full stack developer but also have skills in different fields and technologies
 </a>
 
 <a href="https://www.typescriptlang.org/">
-    <img src="https://www.thesaurabh.dev/images/tech/typescript.png" alt="TypeScript Logo" width="40">
+    <img src="https://www.thesaurabh.dev/images/typescript.png" alt="TypeScript Logo" width="40">
 </a>
 
 <a href="https://en.cppreference.com/w/c/language">
